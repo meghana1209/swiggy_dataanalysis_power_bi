@@ -34,7 +34,8 @@ This project focuses on analyzing Swiggy's sales and business performance using 
 4. Analyze **city-wise sales**, **category breakdown**, and **top-performing restaurants**.
 
 ## 📷 Screenshots
-*(Attach relevant dashboard images here)*
+![Screenshot 2025-02-26 135954](https://github.com/user-attachments/assets/c909ceb7-edca-4270-b9ba-046ef3245a58)
+
 
 ## 🚀 Future Enhancements
 - Integrate **real-time data updates** via APIs.
